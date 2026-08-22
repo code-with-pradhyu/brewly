@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 420" fill="none">
+  <g stroke="#211309" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- Main Branch -->
+    <path d="M40 390 C95 330 125 260 145 180 C160 120 175 65 210 20"/>
+
+    <!-- Leaves -->
+    <path d="M118 310 C95 285 72 280 55 300 C72 320 98 325 118 310"/>
+    <path d="M145 275 C170 248 196 248 214 266 C198 288 170 292 145 275"/>
+
+    <path d="M130 215 C104 192 77 192 60 212 C80 232 108 236 130 215"/>
+    <path d="M165 185 C190 162 216 164 234 182 C215 203 188 205 165 185"/>
+
+    <path d="M175 120 C150 98 122 98 105 118 C123 138 152 142 175 120"/>
+    <path d="M205 92 C228 70 252 72 268 90 C250 110 225 112 205 92"/>
+
+    <!-- Coffee Cherries -->
+    <circle cx="118" cy="285" r="7"/>
+    <circle cx="132" cy="295" r="7"/>
+
+    <circle cx="150" cy="170" r="7"/>
+    <circle cx="164" cy="180" r="7"/>
+
+    <circle cx="185" cy="75" r="7"/>
+    <circle cx="198" cy="86" r="7"/>
+
+    <!-- Small stems -->
+    <path d="M124 286 L138 272"/>
+    <path d="M156 170 L170 156"/>
+    <path d="M190 78 L205 64"/>
+
+  </g>
+</svg>
